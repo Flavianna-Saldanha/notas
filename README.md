@@ -1,36 +1,18 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+## 📘 Tabela de Notas Estudantis
+Este projeto é uma aplicação web desenvolvida com ReactJS, Next.js e TailwindCSS, que exibe de forma organizada uma tabela com as notas dos alunos. A ideia é oferecer uma visualização simples, intuitiva e responsiva do desempenho acadêmico, sendo ideal para fins educacionais, demonstrativos ou institucionais.
 
-## Getting Started
+## 🔧 Tecnologias utilizadas
+⚛️ ReactJS – Para construção de interfaces modernas, com componentes reutilizáveis.
 
-First, run the development server:
+⚡ Next.js – Framework para React que oferece roteamento, performance otimizada e estrutura organizada.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+🎨 TailwindCSS – Utilitário CSS para criação de estilos com agilidade e responsividade.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 📌 Funcionalidades
+Apresenta uma tabela com dados de alunos e suas respectivas notas.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Design clean e responsivo, adaptado a telas pequenas (mobile) e grandes (desktop).
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Uso eficiente de props e map() para exibir os dados dinamicamente.
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## Link do projeto: https://notas-self.vercel.app/ 
