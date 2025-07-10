@@ -14,3 +14,5 @@ Apresenta uma tabela com dados de alunos e suas respectivas notas.
 Design clean e responsivo, adaptado a telas pequenas (mobile) e grandes (desktop).
 
 Uso eficiente de props e map() para exibir os dados dinamicamente.
+
+## Link do projeto: https://notas-self.vercel.app/ 
