@@ -1,5 +1,4 @@
 import { Student } from "@/types/Student";
-import { table } from "console";
 
 type Props = {
     students: Student[];
